@@ -227,6 +227,7 @@ div.hobbies-section {
 }
 
 h2.heading {
+    padding-top: 5rem;
     text-align: center;
     font-size: 36px;
     margin-bottom: 20px;
